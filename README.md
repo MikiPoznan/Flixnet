@@ -4,4 +4,3 @@ Page 100% made by Miki_Poznan (Mikołaj Karp !)
 I was inspired with Netflix 
 
 I hope it will give me some extra points ;)
-<font color="green"> Some green text </font>
