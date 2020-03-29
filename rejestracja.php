@@ -110,7 +110,7 @@
 				
 				if ($wszystko_OK==true)
 				{				
-					if ($polaczenie->query("INSERT INTO uzytkownicy VALUES (NULL, '$nick', '$haslo_hash', '$email', 100, 100, 100, 14)"))
+					if ($polaczenie->query("INSERT INTO uzytkownicy VALUES (NULL, '$nick', '$haslo_hash', '$email')"))
 					{
 						$_SESSION['udanarejestracja']=true;
 						header('Location: witamy.php');
